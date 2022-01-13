@@ -9,13 +9,13 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
+666666666666666
 
+{: .note .info}
 
 
 
 # ios开发面试常见问题及答案
-
-{: .note .info}
 
 1.写一个**NSString**类的实现
 

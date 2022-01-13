@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
   
 
 {: .note .info}
-就显示这么多了
+就显示这么多了，没有了
 
 
 

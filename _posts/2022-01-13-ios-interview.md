@@ -15,6 +15,8 @@ excerpt_separator: <!--more-->
 
 # ios开发面试常见问题及答案
 
+{: .note .info}
+
 1.写一个**NSString**类的实现
 
 **+ (id)initWithCString:(c\**\**\*t char \*)nullTerminatedCString encoding:(NSStringEncoding)encoding;** 

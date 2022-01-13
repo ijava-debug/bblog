@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "ios面试题"
 color:  teal
 width:   6 

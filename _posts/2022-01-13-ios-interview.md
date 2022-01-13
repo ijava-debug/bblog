@@ -11,9 +11,8 @@ excerpt_separator: <!--more-->
 
   
 
-666666666666666
-
 {: .note .info}
+就显示这么多了
 
 
 

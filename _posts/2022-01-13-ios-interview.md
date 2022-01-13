@@ -1,18 +1,15 @@
 ---
 
 title:  "ios面试题"
-color:  teal
-width:   6 
-height:  1
 date:   2021-01-13
 categories: jekyll update
-excerpt_separator: <!--more-->
+
 ---
 
   
 
 {: .note .info}
-就显示这么多了，没有了
+就显示这么多了，没有了1
 
 
 
